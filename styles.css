@@ -1,0 +1,20 @@
+.poema{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.cuerpo{
+    background: linear-gradient(to left, orange, rgb(55, 121, 197));
+}
+#nom{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
